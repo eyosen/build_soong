@@ -84,6 +84,8 @@ var Configuration = map[string]PathConfig{
 	"egrep":    Allowed,
 	"expr":     Allowed,
 	"find":     Allowed,
+	"flock":    Allowed,
+	"curl":	    Allowed,
 	"fuser":    Allowed,
 	"getopt":   Allowed,
 	"git":      Allowed,
