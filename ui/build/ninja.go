@@ -150,6 +150,7 @@ func runNinja(ctx Context, config Config) {
 
 			// ccache settings
 			"CCACHE_COMPILERCHECK",
+			"CCACHE_COMPRESS",
 			"CCACHE_SLOPPINESS",
 			"CCACHE_BASEDIR",
 			"CCACHE_CPP2",
