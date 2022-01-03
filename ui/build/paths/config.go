@@ -104,6 +104,7 @@ var Configuration = map[string]PathConfig{
 	"repo":    Allowed,
 	"rsync":   Allowed,
 	"sh":      Allowed,
+	"shuf":      Allowed,
 	"tr":      Allowed,
 	"unzip":   Allowed,
 	"zip":     Allowed,
