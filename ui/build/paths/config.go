@@ -108,6 +108,7 @@ var Configuration = map[string]PathConfig{
 	"shuf":    Allowed,
 	"tr":      Allowed,
 	"unzip":   Allowed,
+	"xmllint": Allowed,
 	"zip":     Allowed,
 	"arm-linux-androidkernel-as": Allowed,
 	"arm-linux-androidkernel-ld": Allowed,
