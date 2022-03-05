@@ -74,6 +74,7 @@ func deviceClean(ctx Context, config Config) {
 		productOut("*.zip.sha256sum"),
 		productOut("android-info.txt"),
 		productOut("Changelog.txt"),
+		productOut("manifest.xml"),
 		productOut("kernel"),
 		productOut("ramdisk"),
 		productOut("recovery"),
